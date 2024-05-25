@@ -1,21 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Read Excel File</title>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
-</head>
-<body>
+  </head>
+
+  <body>
     <h2>Upload and Read an Excel File</h2>
     <form id="uploadForm">
-        <input type="file" id="fileInput" name="file" accept=".xlsx, .xls">
+      <input type="file" id="fileInput" name="file" accept=".xlsx, .xls" />
     </form>
     <pre id="output"></pre>
     <div id="extractedValues"></div>
 
-    <script src="server.js">
-    </script>
-    
-</body>
+    <script src="server.js"></script>
+  </body>
 </html>
