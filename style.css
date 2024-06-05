@@ -9,7 +9,7 @@
     width: 100%;
     min-height: 100vh;
     padding: 5%;
-    background-image: linear-gradient(rgba(132, 191, 206, 0.4),rgba(132, 191, 206, 0.4)),url(images/855.gif);
+    background-image: linear-gradient(rgba(3, 58, 71, 0.747),rgba(3, 58, 71, 0.747)),url(images/855.gif);
     background-position: center;
     background-size: cover;
     display: flex;
@@ -17,7 +17,7 @@
     justify-content: center;
 }
 
-.search-bar{
+/* .search-bar{
     width: 100%;
     max-width: 700px;
     background: rgba(19, 18, 18, 0.2);
@@ -52,16 +52,30 @@
    height: 60px;
    background: #ffffff;
    cursor: pointer;
-}
+} */
 
 .jsonData{
-    padding-top: 500px;
-    font-size: 25px;
+    padding-bottom: 600px;
     position: fixed;
+    font-size: 60px;
+    color: rgb(233, 226, 226);
+    text-align: center;
 }
 
 .tableData{
-    padding-top: 700px;
+    padding-top: 400px;
     font-size: 25px;
-    position: fixed;
+    color: goldenrod;
+    width: 100%;
+    max-width: 700px;
+    background: rgba(19, 18, 18, 0.2);
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px 20px;
+    text-align: center;
+}
+
+.movingText{
+    font-size: 60px;
+    padding-bottom: 700px;
 }
