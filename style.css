@@ -53,3 +53,15 @@
    background: #ffffff;
    cursor: pointer;
 }
+
+.jsonData{
+    padding-top: 500px;
+    font-size: 25px;
+    position: fixed;
+}
+
+.tableData{
+    padding-top: 700px;
+    font-size: 25px;
+    position: fixed;
+}
