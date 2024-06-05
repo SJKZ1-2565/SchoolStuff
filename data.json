@@ -3,7 +3,7 @@
     "Id": 19543,
     "Name": "John Doe",
     "Score": 30,
-    "Recommend": "Send your homeworkd"
+    "Recommend": "Turn in your homework"
   },
   {
     "Id": 19544,
@@ -14,7 +14,7 @@
   {
     "Id": 19545,
     "Name": "Sam Johnson",
-    "Score": 40,
-    "Recommend": "Get good"
+    "Score": 80,
+    "Recommend": "Great!"
   }
 ]
