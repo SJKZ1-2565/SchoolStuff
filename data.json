@@ -1,19 +1,16 @@
 [
   {
     "Id": 19543,
-    "Name": "John Doe",
     "Score": 30,
     "Recommend": "Turn in your homework"
   },
   {
     "Id": 19544,
-    "Name": "Jane Smith",
     "Score": 25,
     "Recommend": "Come to school"
   },
   {
     "Id": 19545,
-    "Name": "Sam Johnson",
     "Score": 80,
     "Recommend": "Great!"
   }
